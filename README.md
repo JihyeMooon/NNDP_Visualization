@@ -1,5 +1,5 @@
-#### **Genetic Data Visualization using Literature Text-Based Neural Networks: Examples Associated with Myocardial Infarction**
-##### Authors: *Jihye Moon, Hugo F. Posada-Quintero, and Ki. H. Chon 
+## **Genetic Data Visualization using Literature Text-Based Neural Networks: Examples Associated with Myocardial Infarction**
+### Authors: *Jihye Moon, Hugo F. Posada-Quintero, and Ki. H. Chon 
 **Corresponding author**: jihye.moon@uconn.edu ,
 Under Review by Neural Network Journal
 
