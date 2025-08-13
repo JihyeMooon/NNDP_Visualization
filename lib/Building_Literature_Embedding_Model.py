@@ -89,8 +89,7 @@ class building_embedding_model():
                 buf_batch.extend(save_batch)
                 buf_labels.extend(save_labels) 
                 buf_size.extend(size) 
-                if countData==1000:
-                    #print(i, len(gene2doc))
+                if countData==1000: 
                     self.dumpArrayFile(buf_batch, self.gene2doc_dir, 'cbow.batch.'+str(indexing))
                     self.dumpArrayFile(buf_labels, self.gene2doc_dir, 'cbow.label.'+str(indexing)) 
                     countData=0

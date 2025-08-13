@@ -3,6 +3,7 @@
 Created on Mon Jun 29 18:30:00 2020
 
 @author: Jihye Moon
+(jihye.moon@uconn.edu)
 
 """
 import os   
